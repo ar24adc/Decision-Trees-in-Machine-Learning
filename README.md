@@ -82,5 +82,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **scikit-learn** for machine learning implementation
 - **Matplotlib** and **Seaborn** for visualizations
 ```
-
-
