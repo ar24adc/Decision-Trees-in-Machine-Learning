@@ -83,13 +83,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Matplotlib** and **Seaborn** for visualizations
 ```
 
-### Key Sections:
-- **Project Overview**: Briefly explains what the project is about.
-- **Requirements**: Lists the libraries needed to run the project.
-- **Usage**: Provides step-by-step instructions for cloning and running the project.
-- **Key Components**: Explains the contents of the repository.
-- **Model Evaluation**: Describes the evaluation metrics and how the model performed.
-- **Visualizations**: Mentions the visualizations used to evaluate and interpret the model.
-- **Conclusion**: Summarizes the findings and suggests areas for improvement.
 
-Make sure to adjust any file names or URLs specific to your project. This README will guide users through understanding the project and how to use the repository.
